@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-As a former Data Analyst in the Navy, my journey into coding began with Python scripting for data analysis, sparking a deep interest in software development. I'm currently pursuing a Bachelor's degree in Computer Science, aiming to graduate by the end of 2025. At Black Cape, Inc., where I'm an intern Software Engineer, I'm honing my skills in UI/UX design and backend logic, primarily for government contracts. Outside work and academia, I'm enthusiastically developing a project that integrates AI into note-taking, project management, and team collaboration tools. This journey in tech has been exhilarating, and I eagerly anticipate contributing to more innovative projects in the future!
+As a former Data Analyst in the Navy, my journey into coding began with Python scripting for data analysis, sparking a deep interest in software development. I'm currently pursuing a Bachelor's degree in Computer Science, aiming to graduate by the end of 2025. 
+
+At Black Cape, Inc., where I'm an intern Software Engineer, I'm honing my skills in UI/UX design and backend logic, primarily for government contracts. Outside work and academia, I'm enthusiastically developing a project that integrates AI into note-taking, project management, and team collaboration tools. This journey in tech has been exhilarating, and I eagerly anticipate contributing to more innovative projects in the future!
 
 * 🌍  I'm based in Washington, D.C.
 * ✉️  You can contact me at [evanjameslovett@gmail.com](mailto:evanjameslovett@gmail.com)
