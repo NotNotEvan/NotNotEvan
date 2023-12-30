@@ -6,11 +6,10 @@ Software Engineer
 
 As a former Data Analyst in the Navy, my journey into coding began with Python scripting for data analysis, sparking a deep interest in software development. I'm currently pursuing a Bachelor's degree in Computer Science, aiming to graduate by the end of 2025. 
 
-At Black Cape, Inc., where I'm an intern Software Engineer, I'm honing my skills in UI/UX design and backend logic, primarily for government contracts. Outside work and academia, I'm enthusiastically developing a project that integrates AI into note-taking, project management, and team collaboration tools. This journey in tech has been exhilarating, and I eagerly anticipate contributing to more innovative projects in the future!
+At Black Cape, Inc., where I'm an intern Software Engineer, I'm honing my skills in UI/UX design and backend logic, primarily for government contracts. This journey in tech has been exhilarating, and I eagerly anticipate contributing to more innovative projects in the future!
 
 * 🌍  I'm based in Washington, D.C.
 * ✉️  You can contact me at [evanjameslovett@gmail.com](mailto:evanjameslovett@gmail.com)
-* 🚀  I'm currently working on [ideaFlow](http://https://github.com/NotNotEvan/ideaFlow)
 * 🧠  I'm learning more about React, database infrastructure, user profile management, and LOTS more.
 * 🤝  I'm open to collaborating on ANYTHING! I may not be the most profound programer out there, but I'm willing to learn all I can and produce products to the best of my ability!
 
